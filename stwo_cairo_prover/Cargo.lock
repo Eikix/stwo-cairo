@@ -1918,7 +1918,6 @@ dependencies = [
  "itertools 0.12.1",
  "num-traits",
  "rand",
- "rayon",
  "serde",
  "starknet-crypto 0.6.2",
  "starknet-ff",
